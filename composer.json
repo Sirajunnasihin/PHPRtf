@@ -1,0 +1,27 @@
+{
+    "name": "sirajunnasihin/phprtf",
+    "description": "Create or read rtf file with php laravel",
+    "homepage": "https://github.com/sirajunnasihin/phprtf",
+    "license": "MIT",
+    "keywords": ["laravel", "rtf", "rich text", "php", "php rtf"],
+    "authors": [
+        {
+            "name": "sirajun nasihin",
+            "email": "sirajunnasihin@gmail.com",
+            "homepage": "http://sirajunnasihin.my.id"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": ">=4.2"
+    },
+    "autoload": {
+
+    },
+    "minimum-stability": "stable",
+    "extra": {
+        "laravel": {
+            
+        }
+    }
+}
